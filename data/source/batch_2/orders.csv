@@ -1,0 +1,12 @@
+order_id,customer_id,order_date,status
+1020,2,2024-03-11,completed
+1021,1,2024-03-11,completed
+1022,5,2024-03-12,completed
+1023,2,2024-03-12,completed
+1024,6,2024-03-13,completed
+1025,1,2024-03-14,completed
+1026,6,2024-03-14,completed
+1027,4,2024-03-15,completed
+1028,2,2024-03-15,completed
+1029,1,2024-03-16,completed
+1030,5,2024-03-17,completed

@@ -1,0 +1,7 @@
+customer_id,full_name,email,city,country,loyalty_status
+1,Ava Patel,ava.patel@example.com,London,UK,silver
+2,Ben Martin,ben.martin@example.com,London,UK,silver
+3,Chloe Singh,chloe.singh@example.com,Manchester,UK,gold
+4,Diego López,diego.lopez@example.com,Barcelona,ES,gold
+5,Eve Chen,eve.chen@example.com,Dublin,IE,silver
+6,Fatima Khan,fatima.khan@example.com,Leeds,UK,bronze
